@@ -16,7 +16,7 @@ This project is website for a online Customer Support System For Business named 
 <img  src=""  alt="Landing_Page">
 <img  src=""  alt="Landing_Page">
 
-Website-created HTML inserted into PHP files and styled using external CSS3 files. Backend development with internal PHP and external Js. XAMPP used to maintain databases and as localhost.<a href="https://mdbootstrap.com/"> MD Bootsrap</a> and <a href="https://freefrontend.com/)https://freefrontend.com/"> Free Front End </a> used as resources to develop front end of the website.
+Website-created HTML inserted into PHP files and styled using external CSS3 files. Backend development with internal PHP and external Js. XAMPP used to maintain databases and as localhost.
 
 ## Instruction to project
 <ul>
@@ -80,18 +80,18 @@ Booklr Website built according to wireframes.<br> Wireframes designed by
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Chathumina Ruwindushan</a>
 
 Wireframes   
-<img align=center src="" width="350" height="900">
+<img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="350" height="900">
 <img align=center src="" width="450" height="600">
 <br><br>
 <p align=center>All the wireframes in <a href="">Wire Frames Folder</a>.</p>
 
 ## User Journeys of Booklr
-User journeys created to identify user behaviour in BizzSup. Go all the user journeys through <a href="">User Journey</a> Folder.
+User journeys were created to identify user behaviour in BizzSup. Go all the user journeys through <a href="">User Journey</a> Folder.
 <div  align="center">
 <img src="" width="500" height="700">
 
 ## Contributors
-Contibutors to make Booklr success.
+Contributors to make BizzSup success.
 <br><br>
 <a href="https://www.linkedin.com/in/kavindudilshan84/"><img src="Images/Readme Images/Members/kd-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
