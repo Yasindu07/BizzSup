@@ -80,7 +80,7 @@ Booklr Website built according to wireframes.<br> Wireframes designed by
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Chathumina Ruwindushan</a>
 
 Wireframes   
-<img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="350" height="900">
+<img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="600" height="900">
 <img align=center src="" width="450" height="600">
 <br><br>
 <p align=center>All the wireframes in <a href="">Wire Frames Folder</a>.</p>
