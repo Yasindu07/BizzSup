@@ -82,7 +82,7 @@ Booklr Website built according to wireframes.<br> Wireframes designed by
 Wireframes 
 <div  align="center">
 <img align="center" src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="600" height="500">
-<br>
+<br><br>
 <img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/sign%20up%20page.png" width="600" height="500">
 <br><br>
 <p align=center>All the wireframes in <a href="">Wire Frames Folder</a>.</p>
