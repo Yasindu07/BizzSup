@@ -90,21 +90,21 @@ Wireframes
 ## User Journeys of BizzSup
 User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="https://github.com/inupaUdara/BizzSup/tree/main/user%20journeys">User Journey</a> Folder.
 <div  align="center">
-<img src="https://github.com/inupaUdara/BizzSup/blob/main/user%20journeys/sign%20up_register.jpeg" width="500" height="700">
+<img src="https://github.com/inupaUdara/BizzSup/blob/main/user%20journeys/sign%20up_register.jpeg" width="600" height="500">
 
 ## Contributors
 Contributors to make BizzSup success.
 <br><br>
 <a href="https://www.linkedin.com/in/inupa-udara-02444728a/"><img src="https://avatars.githubusercontent.com/u/127815279?v=4" alt="Inupa" title="Inupa" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/"><img src="https://avatars.githubusercontent.com/u/124476484?v=4" alt="Yasindu" title="Yasindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="Images/Readme Images/Members/sn-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/kavindudilshan84/">Kavindu Dilshan</a>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/inupa-udara-02444728a/">Inupa Udara</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/">Mihiranga Fernando</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/">Raveen De Silva</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sachith-nimendra-018828258/">Sachith Nimendra</a>&nbsp;&nbsp;
