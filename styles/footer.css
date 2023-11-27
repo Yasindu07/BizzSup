@@ -1,0 +1,57 @@
+footer{
+    background:rgb(157, 164, 228);
+    width: 100%;
+    bottom: 0;
+    padding: 30px 30px;
+    font-size: 13px;
+    line-height: 20px;
+
+   
+}
+.col h2{
+    color: black;
+    margin-bottom: 30px;
+}
+.col h3{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.rowfooter{
+    width: 85%;
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+
+}
+.col{
+    flex-basis: 25%;
+    padding: 10px;
+}
+
+.col a{
+    text-decoration: none;
+}
+
+.col a:hover{
+    color: black;
+    transition: .4s;
+
+}
+.social-icon .fa-brands{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #000;
+    background: rgb(157, 164, 228);
+    margin-top: 20px;
+    margin-right: 15px;
+    cursor: pointer;
+
+}
