@@ -79,7 +79,8 @@ Booklr Website built according to wireframes.<br> Wireframes designed by
 <a href="https://github.com/Chathumina12"><img src="" alt="Chathumina" title="Chathumina" width="70" height="70"/></a> 
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Chathumina Ruwindushan</a>
 
-Wireframes   
+Wireframes 
+<div  align="center">
 <img align="center" src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="600" height="500">
 <img align=center src="" width="450" height="600">
 <br><br>
