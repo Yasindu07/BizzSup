@@ -77,7 +77,7 @@ Website-created HTML inserted into PHP files and styled using external CSS3 file
 ## UI/UX Designs 
 Booklr Website built according to wireframes.<br> Wireframes designed by 
 <a href="https://github.com/Chathumina12"><img src="" alt="Chathumina" title="Chathumina" width="70" height="70"/></a> 
-<a href="https://www.linkedin.com/in/kavindudilshan84/">Chathumina Ruwindushan</a>
+<a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/">Chathumina Ruwindushan</a>
 
 Wireframes 
 <div  align="center">
@@ -85,21 +85,21 @@ Wireframes
 <br><br>
 <img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/sign%20up%20page.png" width="600" height="500">
 <br><br>
-<p align=center>All the wireframes in <a href="">Wire Frames Folder</a>.</p>
+<p align=center>All the wireframes in <a href="https://github.com/inupaUdara/BizzSup/tree/main/wireframes">Wire Frames Folder</a>.</p>
 
-## User Journeys of Booklr
-User journeys were created to identify user behaviour in BizzSup. Go all the user journeys through <a href="">User Journey</a> Folder.
+## User Journeys of BizzSup
+User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="https://github.com/inupaUdara/BizzSup/tree/main/user%20journeys">User Journey</a> Folder.
 <div  align="center">
-<img src="" width="500" height="700">
+<img src="https://github.com/inupaUdara/BizzSup/blob/main/user%20journeys/sign%20up_register.jpeg" width="500" height="700">
 
 ## Contributors
 Contributors to make BizzSup success.
 <br><br>
-<a href="https://www.linkedin.com/in/kavindudilshan84/"><img src="Images/Readme Images/Members/kd-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+<a href="https://www.linkedin.com/in/inupa-udara-02444728a/"><img src="https://avatars.githubusercontent.com/u/127815279?v=4" alt="Inupa" title="Inupa" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/"><img src="Images/Readme Images/Members/mihi-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><img src="Images/Readme Images/Members/rds-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src="" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="Images/Readme Images/Members/sn-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp; 
