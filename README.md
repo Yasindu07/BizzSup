@@ -71,10 +71,10 @@ To download and set up the BizzSup project, follow these step-by-step instructio
 The website should now be accessible, providing an interface to interact with the BizzSup project.
 
 ## UI/UX Designs 
-BizzSup website was built according to wireframes. All the wireframes are in the <a href="images/ReadMe/Wireframes">Wireframes</a> Folder.
+BizzSup website was built according to wireframes. All the wireframes are in the <a href="https://github.com/inupaUdara/BizzSup/tree/main/wireframes">Wireframes</a> Folder.
 
 ## User Journeys of Booklr
-User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="images/ReadMe/User Journey">User Journey</a> Folder.
+User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="https://github.com/inupaUdara/BizzSup/tree/main/user%20journeys">User Journey</a> Folder.
 <div  align="center">
 
 ## Contributors
@@ -91,7 +91,6 @@ Contributors to make BizzSup successful.<br><br>
 <a href="https://www.linkedin.com/in/inupa-udara-02444728a/">Inupa Udara</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/">Yasindu Balasooriya</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/">Chathumina Ruwindushan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamindu-wn-074815282/">Chamindu WN</a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
-
+<a href="https://www.linkedin.com/in/chamindu-wn-074815282/">Chamindu WN</a>
 
 
