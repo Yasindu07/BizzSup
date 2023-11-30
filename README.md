@@ -86,13 +86,13 @@ Contributors to make BizzSup successful.<br><br>
 <a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/"><img src="https://avatars.githubusercontent.com/u/142786337?v=4" alt="Chathumina" title="Chathumina" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><a href="https://www.linkedin.com/in/chamindu-wn-074815282/"><img src="https://avatars.githubusercontent.com/u/130142380?v=4" alt="Chamindu" title="Chamindu" width="70" height="70"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
+<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;-->
 
 <a href="https://www.linkedin.com/in/dishal/">Dishal Kanishka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Kavindu Dilshan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/">Mihiranga Fernando</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/">Raveen De Silva</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/">Sachith Nimendra</a>
+
 
 
