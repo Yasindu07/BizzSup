@@ -6,7 +6,7 @@
 <p align=center>Online Customer Support System For Business</p>
 <br>
 
-## Project Description
+<h1>Project Description</h1>
 This project is website for a online Customer Support System For Business named as <b>"BizzSup"</b>  created with PHP , HTML, CSS, Js and MySQL. XAMPP use to configure PHP and MySQL. 
 
 ## About the project
