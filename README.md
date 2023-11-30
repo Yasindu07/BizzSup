@@ -20,7 +20,7 @@ Website-created HTML inserted into PHP files and styled using external CSS3 file
 ## Instruction to project
 <ul>
   <li>Download <a href="https://github.com/inupaUdara/BizzSup">BizzSup</a> project</li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br>
   Fork the repository
   <br><br>
