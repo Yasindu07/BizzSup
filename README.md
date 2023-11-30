@@ -91,7 +91,7 @@ Contributors to make BizzSup successful.<br><br>
 <a href="https://www.linkedin.com/in/inupa-udara-02444728a/">Inupa Udara</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/">Yasindu Balasooriya</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/">Chathumina Ruwindushan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamindu-wn-074815282/">Chamindu WN</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chamindu-wn-074815282/">Chamindu WN</a><!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 
 
 
