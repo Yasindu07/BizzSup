@@ -1,10 +1,8 @@
 <!-- PROJECT LOGO -->
-<h1>
   <div  align="center">
   <a  href="https://github.com/inupaUdara/BizzSup">
       <img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/BizzSupp.jpg"  alt="Logo" width = 150px height = 150px>
   </a>
-</h1>
 <p align=center>Online Customer Support System For Business</p>
 <br>
 
