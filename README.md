@@ -7,18 +7,19 @@
 </h1>
 
 ## Project Description
-This project is website for a online Customer Support System For Business named as <b>"BizzSup"</b>  created with PHP , HTML, CSS, Js and MySQL. XAMPP use to configure PHP and MySQL. 
+This project is a website for an online Customer Support System For Businesses named as <b>"BizzSup"</b>  created with PHP, HTML, CSS, Js, and MySQL. XAMPP used to configure PHP and MySQL.
+
 <img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/landing%20page.png"  alt="Landing_Page">
 
 ## About the Project
-The website was developed using a combination of HTML and Bootstrap 5, seamlessly integrated into PHP files and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
+The website was developed using a combination of HTML, seamlessly integrated into PHP files, and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
 
-In crafting the front end, resources from <a href="https://mdbootstrap.com/"> MD Bootsrap</a> and <a href="https://freefrontend.com/"> Free Front End</a> were instrumental. These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
+These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
 
-## How to set up the Booklr?
-To download and set up the Booklr project, follow these step-by-step instructions:
+## How to set up the BizzSup?
+To download and set up the BizzSup project, follow these step-by-step instructions:
 <ol>
-  <li><b>Download Booklr Project:</b></li>
+  <li><b>Download BizzSup Project:</b></li>
   <ul>
     <li>Navigate to the project repository and click on <b>"Download Zip."</b></li>
     <li>Extract the downloaded Zip file to obtain the project folder.</li>
@@ -35,7 +36,7 @@ To download and set up the Booklr project, follow these step-by-step instruction
   <li><b>Copy Project into "htdocs" Folder:</b></li>
   <ul>
     <li>Locate the "htdocs" folder within the XAMPP directory.</li>
-    <li>Copy the extracted Booklr folder into the "htdocs" folder.</li>
+    <li>Copy the extracted BizzSup folder into the "htdocs" folder.</li>
   </ul><br>
   <li><b>Start Apache and MySQL:</b></li>
   <ul>
@@ -52,12 +53,12 @@ To download and set up the Booklr project, follow these step-by-step instruction
   <li><b>Create Database:</b></li>
   <ul>
     <li>In phpMyAdmin, click on "New" in the left sidebar.</li>
-    <li>Enter "booklr" in the database name field.</li>
+    <li>Enter "BizzSup" in the database name field.</li>
     <li>Ensure that the database name is entered correctly, as an incorrect name may lead to website malfunctions.</li>
   </ul><br>
   <li><b>Import Database Tables:</b></li>
   <ul>
-    <li>After creating the "booklr" database, select it and click on "Import."</li>
+    <li>After creating the "BizzSup" database, select it and click on "Import."</li>
     <li>Click "Choose File" and select the database tables located in the "database" folder of the extracted project.</li>
     <li>Import each table individually.</li>
   </ul><br>
@@ -67,26 +68,26 @@ To download and set up the Booklr project, follow these step-by-step instruction
     <li>Replace <b>[PortNumber]</b> with the identified port number and <b>[FolderName]</b> with the name of the extracted folder.</li>
   </ul>
 </ol>
-The website should now be accessible, providing an interface to interact with the Booklr project.
+The website should now be accessible, providing an interface to interact with the BizzSup project.
 
 ## UI/UX Designs 
-Booklr website was built according to wireframes. All the wireframes are in the <a href="images/ReadMe/Wireframes">Wireframes</a> Folder.
+BizzSup website was built according to wireframes. All the wireframes are in the <a href="images/ReadMe/Wireframes">Wireframes</a> Folder.
 
 ## User Journeys of Booklr
-User journeys were created to identify user behavior in Booklr. Go all the user journeys through <a href="images/ReadMe/User Journey">User Journey</a> Folder.
+User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="images/ReadMe/User Journey">User Journey</a> Folder.
 <div  align="center">
 
 ## Contributors
-Contributors to make Booklr successful.<br><br>
-<a href="https://www.linkedin.com/in/dishal/"><img src="images/ReadMe/Members/dk-modified.png" alt="Dishal" title="Dishal" width="70" height="70"/></a>
+Contributors to make BizzSup successful.<br><br>
+<a href="https://www.linkedin.com/in/inupa-udara-02444728a/"><img src="https://avatars.githubusercontent.com/u/127815279?v=4" alt="Inupa" title="Inupa" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kavindudilshan84/"><img src="images/ReadMe/Members/kd-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+<a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/"><img src="https://avatars.githubusercontent.com/u/124476484?v=4" alt="Yasindu" title="Yasindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/"><img src="images/ReadMe/Members/mihi-modified.png" alt="Mihiranga" title="Mihiranga" width="70" height="70"/></a>
+<a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/"><img src="https://avatars.githubusercontent.com/u/142786337?v=4" alt="Chathumina" title="Chathumina" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><img src="images/ReadMe/Members/rds-modified.png" alt="Raveen" title="Raveen" width="70" height="70"/></a>
+<a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><a href="https://www.linkedin.com/in/chamindu-wn-074815282/"><img src="https://avatars.githubusercontent.com/u/130142380?v=4" alt="Chamindu" title="Chamindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="images/ReadMe/Members/sn-modified.png" alt="Sachith" title="Sachith" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
+<!--<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="images/ReadMe/Members/sn-modified.png" alt="Sachith" title="Sachith" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;-->
 
 <a href="https://www.linkedin.com/in/dishal/">Dishal Kanishka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Kavindu Dilshan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
