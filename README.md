@@ -2,7 +2,7 @@
 <h1>
   <div  align="center">
   <a  href="https://github.com/inupaUdara/BizzSup">
-      <img  src=""  alt="Logo" >
+      <img  src="Site Images/BizzSupp.jpg"  alt="Logo" >
   </a>
 </h1>
 <p align=center>Online Customer Support System For Business</p>
