@@ -13,8 +13,7 @@ This project is website for a online Customer Support System For Business named 
 
 ## About the project
 #### Landing Page
-<img  src=""  alt="Landing_Page">
-<img  src=""  alt="Landing_Page">
+<img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/landing%20page.png"  alt="Landing_Page">
 
 Website-created HTML inserted into PHP files and styled using external CSS3 files. Backend development with internal PHP and external Js. XAMPP used to maintain databases and as localhost.
 
