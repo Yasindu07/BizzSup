@@ -87,7 +87,7 @@ Contributors to make BizzSup successful.<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><a href="https://www.linkedin.com/in/chamindu-wn-074815282/"><img src="https://avatars.githubusercontent.com/u/130142380?v=4" alt="Chamindu" title="Chamindu" width="70" height="70"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!--<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="images/ReadMe/Members/sn-modified.png" alt="Sachith" title="Sachith" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;-->
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/dishal/">Dishal Kanishka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/kavindudilshan84/">Kavindu Dilshan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
