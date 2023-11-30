@@ -13,9 +13,11 @@ This project is website for a online Customer Support System For Business named 
 
 ## About the project
 #### Landing Page
-<img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/landing%20page.png"  alt="Landing_Page">
+The website was developed using a combination of HTML, seamlessly integrated into PHP files, and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
 
-Website-created HTML inserted into PHP files and styled using external CSS3 files. Backend development with internal PHP and external Js. XAMPP used to maintain databases and as localhost.
+In crafting the front end, resources from  Free Front End were instrumental. These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
+
+<img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/landing%20page.png"  alt="Landing_Page">
 
 ## Instruction to project
 <ul>
