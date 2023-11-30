@@ -1,112 +1,97 @@
-<!-- PROJECT LOGO -->
 <h1>
-  <div  align="center">
-  <a  href="https://github.com/inupaUdara/BizzSup">
-      <img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/BizzSupp.jpg"  alt="Logo" width = 150px height = 150px>
+  <div align="center">
+    <a href="https://github.com/inupaUdara/BizzSup">
+      <img src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/BizzSupp.jpg"  alt="Logo" width = 150px height = 150px">
+      <p align=center>Online Customer Support System For Business</p>
   </a>
 </h1>
-<p align=center>Online Customer Support System For Business</p>
-<br>
 
 ## Project Description
 This project is website for a online Customer Support System For Business named as <b>"BizzSup"</b>  created with PHP , HTML, CSS, Js and MySQL. XAMPP use to configure PHP and MySQL. 
 <img  src="https://github.com/inupaUdara/BizzSup/blob/main/Site%20Images/landing%20page.png"  alt="Landing_Page">
 
-## About the project
-The website was developed using a combination of HTML, seamlessly integrated into PHP files, and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
+## About the Project
+The website was developed using a combination of HTML and Bootstrap 5, seamlessly integrated into PHP files and enhanced with styles from external CSS files. For backend functionality, internal PHP scripts were employed, complemented by external JavaScript for dynamic interactions. The database management and local server hosting were facilitated through XAMPP.
 
-In crafting the front end, resources from  Free Front End were instrumental. These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
+In crafting the front end, resources from <a href="https://mdbootstrap.com/"> MD Bootsrap</a> and <a href="https://freefrontend.com/"> Free Front End</a> were instrumental. These platforms provided valuable assets and design elements that greatly contributed to the aesthetic and functional aspects of the website. The incorporation of these resources, along with meticulous styling using external CSS, resulted in a visually appealing and user-friendly web interface.
 
-## Instruction to project
-<ul>
-  <li>Download <a href="https://github.com/inupaUdara/BizzSup">BizzSup</a> project</li>
-  <!--<img align=center src="">-->
-  <br>
-  Fork the repository
-  <br><br>
-  <li>Download <a href="https://www.apachefriends.org/download.html">XAMPP</a> and Install XAMPP</li>
-  <li>Open XAMPP and Click "Explore"</li>
-  <!--<img align=center src="">-->
-  <li>Click "htdocs" Folder </li>
-  <!--<img align=center src="">-->
-  <li>Copy Extracted BizzSup Folder into htdocs Folder</li>
-  <li>Go to XAMPP application and hit Start Apache and MySQL</li><br>
-  Before click "Start"
-  <!--<img align=center src="">-->
-  <br><br>
-  After click "Start" 
-  <!--<img align=center src="">-->
-  <li>Identify Port Number</li>
-    <!--<img align=center src="">-->
-  <li>Open Web browser(Chrome/Edge/Any other)</li>
-  <li>Type <a href="">localhost:[Port_Number]/phpmyadmin/</a> in address bar</li>
-  <br>
-  [Port_Number] - Identified port number in XAMPP (Above Screenshot describe how to identify port number)
-  <br><br>
-  Redirect Page 
-  <br><br>
-  <!--<img align=center src="">-->
-  <br><br>
-  <li>Click "New" in Left Sidebar</li>
-  <br><br>
-  <!--<img align=center src="">-->
-  <br><br>
-  <li>Type "BizzSup" in database name field</li>
-  <br><br>
-  <!--<img align=center src="">-->
-  Type correctly "bizzsup". If database name incorrect website didn't work properly
-  <br><br>
-  <li>After creating database click "bizzsup" database and click "Import"</li>
-  <br><br>
-  <!--<img align=center src="">-->
-  <br><br>
-  <li>Click "Choose File" and select databse tables in <a href="Database">Database</a> folder</li>
-  <!--<img align=center src="">-->
-  <br><br>
-  <li>Click "Import" import tables each by each </li>
-  <!--<img align=center src="">-->
-  <br><br>
-  <li>Type the following address in address bar</li>
-  <!--<img align=center src="">-->
-  <br><br>
-  [Folder Name] = Extracted Folder Name 
-  <li>Then Website will appear</li>  
-</ul>
+## How to set up the Booklr?
+To download and set up the Booklr project, follow these step-by-step instructions:
+<ol>
+  <li><b>Download Booklr Project:</b></li>
+  <ul>
+    <li>Navigate to the project repository and click on <b>"Download Zip."</b></li>
+    <li>Extract the downloaded Zip file to obtain the project folder.</li>
+  </ul><br>
+  <li><b>Download and Install XAMPP:</b></li>
+  <ul>
+    <li>Download XAMPP and follow the installation instructions.</li>
+  </ul><br>
+  <li><b>Open XAMPP and Explore:</b></li>
+  <ul>
+    <li>Launch the XAMPP application.</li>
+    <li>Click on "Explore" to open the XAMPP installation directory.</li>
+  </ul><br>
+  <li><b>Copy Project into "htdocs" Folder:</b></li>
+  <ul>
+    <li>Locate the "htdocs" folder within the XAMPP directory.</li>
+    <li>Copy the extracted Booklr folder into the "htdocs" folder.</li>
+  </ul><br>
+  <li><b>Start Apache and MySQL:</b></li>
+  <ul>
+    <li>Return to the XAMPP application.</li>
+    <li>Start both Apache and MySQL by clicking on the respective buttons.</li>
+    <li>Identify the port number from the XAMPP control panel.</li>
+  </ul><br>
+  <li><b>Access phpMyAdmin:</b></li>
+  <ul>
+    <li>Open a web browser (Chrome, Edge, or any other).</li>
+    <li>Type the following in the address bar: <b>localhost:[PortNumber]/phpmyadmin/</b></li>
+    <li>Replace <b>[PortNumber]</b> with the identified port number from the XAMPP control panel.</li>
+  </ul><br>
+  <li><b>Create Database:</b></li>
+  <ul>
+    <li>In phpMyAdmin, click on "New" in the left sidebar.</li>
+    <li>Enter "booklr" in the database name field.</li>
+    <li>Ensure that the database name is entered correctly, as an incorrect name may lead to website malfunctions.</li>
+  </ul><br>
+  <li><b>Import Database Tables:</b></li>
+  <ul>
+    <li>After creating the "booklr" database, select it and click on "Import."</li>
+    <li>Click "Choose File" and select the database tables located in the "database" folder of the extracted project.</li>
+    <li>Import each table individually.</li>
+  </ul><br>
+  <li><b>Access the Website:</b></li>
+  <ul>
+    <li>Type the following address in the browser's address bar: <b>localhost:[PortNumber]/[FolderName]/index.php</b></li>
+    <li>Replace <b>[PortNumber]</b> with the identified port number and <b>[FolderName]</b> with the name of the extracted folder.</li>
+  </ul>
+</ol>
+The website should now be accessible, providing an interface to interact with the Booklr project.
 
 ## UI/UX Designs 
-Booklr Website built according to wireframes.<br> Wireframes designed by 
-<a href="https://github.com/Chathumina12"><img src="" alt="Chathumina" title="Chathumina" width="70" height="70"/></a> 
-<a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/">Chathumina Ruwindushan</a>
+Booklr website was built according to wireframes. All the wireframes are in the <a href="images/ReadMe/Wireframes">Wireframes</a> Folder.
 
-Wireframes 
+## User Journeys of Booklr
+User journeys were created to identify user behavior in Booklr. Go all the user journeys through <a href="images/ReadMe/User Journey">User Journey</a> Folder.
 <div  align="center">
-<img align="center" src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/Home.png" width="600" height="500">
-<br><br>
-<img align=center src="https://github.com/inupaUdara/BizzSup/blob/main/wireframes/sign%20up%20page.png" width="600" height="500">
-<br><br>
-<p align=center>All the wireframes in <a href="https://github.com/inupaUdara/BizzSup/tree/main/wireframes">Wire Frames Folder</a>.</p>
-
-## User Journeys of BizzSup
-User journeys were created to identify user behavior in BizzSup. Go all the user journeys through <a href="https://github.com/inupaUdara/BizzSup/tree/main/user%20journeys">User Journey</a> Folder.
-<div  align="center">
-<img src="https://github.com/inupaUdara/BizzSup/blob/main/user%20journeys/sign%20up_register.jpeg" width="600" height="500">
 
 ## Contributors
-Contributors to make BizzSup success.
-<br><br>
-<a href="https://www.linkedin.com/in/inupa-udara-02444728a/"><img src="https://avatars.githubusercontent.com/u/127815279?v=4" alt="Inupa" title="Inupa" width="70" height="70"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/"><img src="https://avatars.githubusercontent.com/u/124476484?v=4" alt="Yasindu" title="Yasindu" width="70" height="70"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/"><img src="https://avatars.githubusercontent.com/u/142786337?v=4" alt="Chathumina" title="Chathumina" width="70" height="70"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chamindu-wn-074815282/"><img src="https://avatars.githubusercontent.com/u/130142380?v=4" alt="Chamindu" title="Chamindu" width="70" height="70"/></a>
-&nbsp;&nbsp;&nbsp;&nbsp; 
+Contributors to make Booklr successful.<br><br>
+<a href="https://www.linkedin.com/in/dishal/"><img src="images/ReadMe/Members/dk-modified.png" alt="Dishal" title="Dishal" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kavindudilshan84/"><img src="images/ReadMe/Members/kd-modified.png" alt="Kavindu" title="Kavindu" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/"><img src="images/ReadMe/Members/mihi-modified.png" alt="Mihiranga" title="Mihiranga" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/"><img src="images/ReadMe/Members/rds-modified.png" alt="Raveen" title="Raveen" width="70" height="70"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/"><img src="images/ReadMe/Members/sn-modified.png" alt="Sachith" title="Sachith" width="70" height="70"/></a>&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/inupa-udara-02444728a/">Inupa Udara</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yasindu-balasooriya-56138a229/">Yasindu Balasooriya</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chathumina-rwindushan-452057242/">Chathumina Ruwindushan</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/chamindu-wn-074815282/">Chamindu WN</a>&nbsp;&nbsp;
-
+<a href="https://www.linkedin.com/in/dishal/">Dishal Kanishka</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/kavindudilshan84/">Kavindu Dilshan</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mihiranga-fernando-10608526a/">Mihiranga Fernando</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/raveen-de-silva-4a2804216/">Raveen De Silva</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sachith-nimendra-018828258/">Sachith Nimendra</a>
 
 
