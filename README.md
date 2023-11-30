@@ -26,18 +26,18 @@ Website-created HTML inserted into PHP files and styled using external CSS3 file
   <br><br>
   <li>Download <a href="https://www.apachefriends.org/download.html">XAMPP</a> and Install XAMPP</li>
   <li>Open XAMPP and Click "Explore"</li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <li>Click "htdocs" Folder </li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <li>Copy Extracted BizzSup Folder into htdocs Folder</li>
   <li>Go to XAMPP application and hit Start Apache and MySQL</li><br>
   Before click "Start"
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   After click "Start" 
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <li>Identify Port Number</li>
-    <img align=center src="">
+    <!--<img align=center src="">-->
   <li>Open Web browser(Chrome/Edge/Any other)</li>
   <li>Type <a href="">localhost:[Port_Number]/phpmyadmin/</a> in address bar</li>
   <br>
@@ -45,29 +45,29 @@ Website-created HTML inserted into PHP files and styled using external CSS3 file
   <br><br>
   Redirect Page 
   <br><br>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   <li>Click "New" in Left Sidebar</li>
   <br><br>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   <li>Type "BizzSup" in database name field</li>
   <br><br>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   Type correctly "bizzsup". If database name incorrect website didn't work properly
   <br><br>
   <li>After creating database click "bizzsup" database and click "Import"</li>
   <br><br>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   <li>Click "Choose File" and select databse tables in <a href="Database">Database</a> folder</li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   <li>Click "Import" import tables each by each </li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   <li>Type the following address in address bar</li>
-  <img align=center src="">
+  <!--<img align=center src="">-->
   <br><br>
   [Folder Name] = Extracted Folder Name 
   <li>Then Website will appear</li>  
